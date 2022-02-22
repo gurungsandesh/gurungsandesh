@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Sandesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeshgurung)](https://github.com/sandeshgurung)
+[![Sandesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurungsandesh)](https://github.com/gurungsandesh)
 
 
 <!--
