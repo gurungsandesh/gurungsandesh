@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Sandesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeshgurung)](https://github.com/sandeshgurung)
+
+
 <!--
 **gurungsandesh/gurungsandesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
